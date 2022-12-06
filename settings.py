@@ -38,8 +38,8 @@ items = [
 
 #(id of crafted item, quantity of crafted item): [(id of material1, quantity of material1), (id of material2, quantity of material2) ... ])
 crafting_recipies = {
-    (0, 1): [(2, 3), (4, 4)],
-    (3, 1): [(2, 3), (0, 1), (4, 8)],
+    (0, 1): [(2, 3), (4, 2)],
+    (3, 1): [(2, 3), (0, 1), (4, 4)],
     (1, 2): [(2, 1)],
-    (5, 1): [(2, 4), (0, 1), (4, 8)],
+    (5, 1): [(2, 4), (0, 1), (4, 4)],
 }
